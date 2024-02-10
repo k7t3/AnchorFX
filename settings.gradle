@@ -1,0 +1,3 @@
+rootProject.name = 'anchorfx-root'
+
+include 'anchorfx', 'sample'
